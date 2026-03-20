@@ -1,2 +1,3 @@
-# smart-knowledge-base-6qzt
+# Smart Knowledge Base 6Qzt
+
 A knowledge management system for modern development workflows.
